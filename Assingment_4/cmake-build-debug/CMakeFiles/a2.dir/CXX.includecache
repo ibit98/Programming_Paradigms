@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/INDRANIL/Downloads/4th Sem/Prog/Assingment_4/a2.cpp
+iostream
+-
+string.h
+-
+string
+-
+stdlib.h
+-
+
